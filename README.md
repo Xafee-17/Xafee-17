@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Xafee 👋
+
+🚀 I'm a Python developer.  
+🔹 Focused on API development, automation, and data processing.  
+🔹 Currently building small projects with FastAPI.  
+
+## 🚀 Skills
+- Python (API, Automation, Data Analysis)  
+- FastAPI
+- C
+- Java
+- Git & GitHub
+
 
 <!--
 **Xafee-17/Xafee-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
