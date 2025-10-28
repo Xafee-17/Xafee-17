@@ -7,6 +7,7 @@
 ## 🚀 Skills
 - Python (API, Automation, Data Analysis)  
 - FastAPI
+- PostgreSQL
 - Basic C, Go and Java
 - Git & GitHub
 
