@@ -1,4 +1,4 @@
-## Hi, I'm Xafee 👋
+## Hi, I'm Kaze 👋
 
 🚀 I'm a Python developer.  
 🔹 Focused on API development, automation, and data processing.  
