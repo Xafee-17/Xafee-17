@@ -8,7 +8,7 @@
 - Python (API, Automation, Data Analysis)  
 - FastAPI
 - PostgreSQL
-- Basic C, Go and Java
+- Basic C, SQL, Dart and Java
 - Git & GitHub
 
 
