@@ -1,13 +1,13 @@
 # Hi there, I'm İbrahim Kaplan 👋
 ### 🚀 Computer Engineering Student | Edge AI & Cybersecurity Enthusiast
 
-I am a Computer Engineering undergraduate at Abdullah Gül University in Kayseri[cite: 1]. My journey began in Malatya, and today I focus on bridging the gap between hardware and software. I specialize in **Embedded Systems**, **Edge AI**, **Database Management**, and **Network Security**[cite: 1].
+I am a Computer Engineering undergraduate at Abdullah Gül University in Kayseri. My journey began in Malatya, and today I focus on bridging the gap between hardware and software. I specialize in **Embedded Systems**, **Edge AI**, **Database Management**, and **Network Security**.
 
 ### 🔭 What I'm Currently Working On
-*   🛡️ **Cybersecurity:** Trained under the national **Siber Vatan** program, focusing on Cryptography, Zero Trust Architecture (ZTA), OSINT, forensics, and steganography[cite: 1]. I actively design secure network models for IoT and embedded networks using micro-segmentation and cryptographic protocols[cite: 2].
-*   💻 **Full-Stack & Database Engineering:** Recently completed an internship at **Netsim Yazılım (Kayseri Teknopark)**, where I developed and deployed an end-to-end database logging and exception management architecture using Firebird triggers, FastAPI, and a Flutter web interface[cite: 1].
-*   📱 **Mobile Development:** Engineered and published **LexiFlow (SözDizimi)**, a multi-language word-guessing game currently active on Google Play, utilizing Flutter, Dart, and Python automation scripts[cite: 2].
-*   🤖 **Hardware & Edge AI:** Prototyping embedded systems with **ESP32-S3** microcontrollers, Edge AI vision modules, and Spiking Neural Networks (SNN)[cite: 1]. I also actively design and build custom FPV drones like my Skyfield project, combining 3D-printed parts with custom electronic configurations.
+*   🛡️ **Cybersecurity:** Trained under the national **Siber Vatan** program, focusing on Cryptography, Zero Trust Architecture (ZTA), OSINT, forensics, and steganography. I actively design secure network models for IoT and embedded networks using micro-segmentation and cryptographic protocols.
+*   💻 **Full-Stack & Database Engineering:** Recently completed an internship at **Netsim Yazılım (Kayseri Teknopark)**, where I developed and deployed an end-to-end database logging and exception management architecture using Firebird triggers, FastAPI, and a Flutter web interface.
+*   📱 **Mobile Development:** Engineered and published **LexiFlow (SözDizimi)**, a multi-language word-guessing game currently active on Google Play, utilizing Flutter, Dart, and Python automation scripts.
+*   🤖 **Hardware & Edge AI:** Prototyping embedded systems with **ESP32-S3** microcontrollers, Edge AI vision modules, and Spiking Neural Networks (SNN). I also actively design and build custom FPV drones like my Skyfield project, combining 3D-printed parts with custom electronic configurations.
 
 ### 🛠️ Tech Stack & Tools
 
